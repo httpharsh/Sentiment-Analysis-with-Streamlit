@@ -43,7 +43,7 @@ streamlit run main.py
 5. Use pagination to navigate through tweets.
 
 ## 📈 Example Visualization
-![Sentiment Pie Chart]("Screenshot 2025-03-16 140144.png")
+![Sentiment Pie Chart](https://github.com/httpharsh/Sentiment-Analysis-with-Streamlit/blob/main/Screenshot%202025-03-16%20140144.png)
 
 ## 🔥 Future Improvements
 - Add support for **real-time analysis**
