@@ -1,6 +1,5 @@
 from tweety import Twitter  
 import pandas as pd  
-import asyncio  
 from langdetect import detect  
 from textblob import TextBlob
 
